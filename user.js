@@ -1,4 +1,3 @@
-// user_pref("browser.proton.enabled", false);
 // user_pref("dom.ipc.processCount", 4);
 // user_pref("permissions.default.image", 2);
 user_pref("accessibility.force_disabled", 1);
@@ -43,6 +42,7 @@ user_pref("browser.newtabpage.enabled", false);
 user_pref("browser.newtabpage.enhanced", false);
 user_pref("browser.pagethumbnails.capturing_disabled", true);
 user_pref("browser.preferences.exposeHTTPSOnly", false);
+user_pref("browser.proton.enabled", false);
 user_pref("browser.region.network.url", "");
 user_pref("browser.region.update.enabled", false);
 user_pref("browser.safebrowsing.appRepURL", "");
@@ -244,4 +244,3 @@ user_pref("webgl.enable-debug-renderer-info", false);
 user_pref("webgl.enable-webgl2", false);
 user_pref("webgl.renderer-string-override", " ");
 user_pref("webgl.vendor-string-override", " ");
-user_pref(“browser.proton.enabled”, false);
